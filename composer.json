@@ -1,0 +1,17 @@
+{
+    "name": "spectatour/u3",
+    "description": "U3 Bank",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "":""
+        }
+    },
+    "authors": [
+        {
+            "name": "Spectatour",
+            "email": "ekalpokas@gmail.com"
+        }
+    ],
+    "require": {}
+}
